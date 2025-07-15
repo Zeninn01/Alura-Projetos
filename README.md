@@ -19,6 +19,7 @@ Documentar minha evolução como desenvolvedor back-end, reunindo projetos prát
 ## 📌 Status
 
 📂 Repositório criado  
+📄 Arquivo JavaScript adicionado: `p1.js`  
 🛠️ Projetos em breve...
 
 ---
